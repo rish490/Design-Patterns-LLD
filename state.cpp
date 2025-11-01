@@ -224,4 +224,7 @@ int main() {
     - No need to touch the MusicPlayer logic itself!
 
     This makes the system flexible, maintainable, and easier to extend.
+
+    Real world examples
+    Payment Gateways, ATM, Chess, Elevator System
 */
